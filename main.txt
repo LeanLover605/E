@@ -1,0 +1,6 @@
+e= "e".join("nvr")
+i= "annog"[::-1]
+o = 'forgive' [-4:]
+u = ('me','you') [1]
+p = 'soup'. split ('o') [1]
+print(e+i+o+u+p)
